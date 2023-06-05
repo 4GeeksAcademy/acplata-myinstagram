@@ -30,19 +30,16 @@ body {
     justify-content: space-between;
 }
 
-.html5 {
+.html5-header {
     display: flex;
+    gap: 5px;
     justify-content: center;
     align-items: center;
 }
 
-.platahtml52 {
+.html5 {
     position: relative;
 }
-
- .platahtml-main {
-    padding-right: 10px;
- }
 
 .post-content {
     padding: 10px;
